@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://aviapost.com/wp-content/uploads/2015/05/SKY2.jpg");
+  background-size: cover;
 }
 
 code {

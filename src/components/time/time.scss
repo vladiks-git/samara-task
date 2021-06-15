@@ -1,0 +1,14 @@
+.time{
+  padding-top: 100px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  &__title{
+    font-size: 30px;
+  }
+  &__currentTime{
+    font-weight: bold;
+    font-size: 36px;
+  }
+}
